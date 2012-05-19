@@ -1,0 +1,17 @@
+{
+	"name": "strutil",
+	"description": "Text Escaping and Unescaping in JavaScript (UTF-8, UTF-16, UTF-32, dec, hex, and more)",
+	"version": "0.1.0",
+	"author": "Pieter Raubenheimer <pieter@wavana.com>",
+	"keywords": ["string", "escape", "unescape", "unicode", "hex", "punycode", "utf-16", "utf-32", "mime", "base64"],
+	"main": "./lib/strutil.js",
+	"engines": {
+		"node": ">= 0.6.0"
+	},
+	"dependencies": {
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : "git://github.com/jupiter/node-strutil.git"
+	}
+}
